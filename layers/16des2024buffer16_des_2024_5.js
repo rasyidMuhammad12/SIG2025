@@ -1,0 +1,1 @@
+var json_16des2024buffer16_des_2024_5 = {"type":"FeatureCollection","name":"16des2024buffer16_des_2024_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1","MG":"5,0"},"geometry":{"type":"Point","coordinates":[99.839327949185105,-1.008273702703697]}}]}

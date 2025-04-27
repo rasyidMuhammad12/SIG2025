@@ -1,0 +1,1 @@
+var json_9Des2024_7 = {"type":"FeatureCollection","name":"9Des2024_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","MG":"4,9"},"geometry":{"type":"Point","coordinates":[99.716216775132835,-0.83728596096444]}}]}
